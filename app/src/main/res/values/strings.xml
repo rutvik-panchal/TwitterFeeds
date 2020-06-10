@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">TwitterFeeds</string>
+
+    <string name="com.twitter.sdk.android.CONSUMER_KEY" tools:ignore="ExtraTranslation">meg3egggscLxeLC3OoTnev7WT</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET" tools:ignore="ExtraTranslation">98nN6eUBuWXQiIURp8h2A4kK3vQdW7yJbbc3nwfDvwmYXU9Re6</string>
+</resources>
