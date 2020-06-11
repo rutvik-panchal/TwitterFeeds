@@ -1,5 +1,6 @@
 package com.rutvik.apps.twitterfeeds.api
 
+import com.rutvik.apps.twitterfeeds.api.models.TweetList
 import com.twitter.sdk.android.core.internal.oauth.OAuth2Token
 import retrofit2.Callback
 import retrofit2.Retrofit
